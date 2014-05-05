@@ -1,5 +1,7 @@
 ##acdeploy
 
+[![Build Status](https://travis-ci.org/adamcaudill/acdeploy.svg)](https://travis-ci.org/adamcaudill/acdeploy)
+
 `acdeploy` is an experimental deployment system targeting Windows, though with Mono support baked in so it can be used across platforms. 
 
 The focus is on simplicity and ease of use. While there are many deployment systems that are designed to do everything possible, the goal of `acdeploy` is to do a few things very well - and very easily. Some environments may need more complex deployment and management systems, so `acdeploy` may not be right for you. It's meant to address a limited number of use cases, to maintain that simplicity.
